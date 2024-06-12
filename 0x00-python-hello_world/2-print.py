@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/bash/python3
 """Prints a specific string."""
 
 print("Programming is like building a multilingual puzzle")
